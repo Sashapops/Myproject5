@@ -1,0 +1,55 @@
+body{
+    background-color: darkgrey;
+}
+header h1 {
+    text-align: center;
+    color: black;
+}
+header img{
+    
+}
+p {
+    text-align: center
+    ;
+}
+h1 {
+    background-color: dimgray;
+}
+main p{
+    background-color: dimgray;
+}
+h2{
+    text-align: center;
+}
+p {
+    color:white;
+}
+.icon{
+    
+    background-color: darkgray;
+    text-align: center;
+    
+}
+.g{
+    width: 520px;
+    height: 320px;
+    
+}
+.ds{
+width: 520px;
+    height: 320px;
+    background-color: dimgray;
+}
+.f{
+    background-color: dimgray;
+}
+footer a {
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: beige;
+    color:black;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
